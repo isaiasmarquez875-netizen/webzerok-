@@ -1,0 +1,45 @@
+
+html{
+    background-color: darkolivegreen;
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: "JetBrains Mono", monospace;
+    padding: 20px;
+    background-color: rgb(146, 216, 24);
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;color: black;
+}
+
+ol {
+    max-width: 600px;
+    margin: 20px auto;
+    padding-left: 30px;
+}
+
+li {
+    font-size: 18px;
+    color: black;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+    
+
+}
